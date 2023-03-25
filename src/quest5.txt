@@ -1,0 +1,1 @@
+ cd door_management_files  cd door_configuration  vim door_1.conf  pomen9li na OPEN
